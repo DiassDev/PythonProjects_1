@@ -4,7 +4,7 @@ print(f"{username} seja-bem vindo(a) ao conversor de unidades!")
 
 def menu():
 
-    print("\nDigite qual unidades você gostaria de converter: ")
+    print("\nDigite quais unidades você gostaria de converter: ")
     print('*' * 30)
     print("1 - Quilomêtros para milhas")
     print("2 - Milhas para quilômetros")
